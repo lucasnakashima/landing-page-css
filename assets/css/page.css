@@ -99,3 +99,30 @@ span {
   width: 50%;
   font-weight: bold;
 }
+
+#professional-challenges {
+  text-align: center;
+  background-color: black;
+}
+
+#professional-challenges p {
+  color: azure;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+#footer {
+  background-color: black;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#footer p {
+  color: azure;
+}
+
+a {
+  text-decoration: none;
+  color: dodgerblue;
+}
