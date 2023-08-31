@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  margin: 0px;
+  font-family: Roboto;
+}
+
+.banner-content {
+  text-align: center;
+  background-image: url(../images/banner.png), linear-gradient(black, #132639, black);
+  background-clip: border-box;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 3px;
+  border-left-width: 0px;
+  border-style: solid;
+  border-color: dodgerblue;
+}
+
+.logo {
+  margin: auto;
+}
+
+h1, p, button, h2 {
+  margin: 5px auto;
+}
+
+h1 {
+  color: dodgerblue;
+  font-size: xxx-large;
+}
+
+p {
+  color: azure;
+  width: 25%;
+}
+
+button {
+  border-style: solid;
+  border-color: dodgerblue;
+  border-width: 2px;
+  color: dodgerblue;
+  background-color: transparent;
+  padding: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: medium;
+  white-space: pre-wrap;
+  margin-bottom: 40px;
+}
+
+#course-content {
+  text-align: center;
+}
